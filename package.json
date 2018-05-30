@@ -1,0 +1,27 @@
+{
+  "name": "cors_fix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "heroku_corsFix.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donaldblanc/cors_fix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donaldblanc/cors_fix/issues"
+  },
+  "homepage": "https://github.com/Donaldblanc/cors_fix#readme"
+}
